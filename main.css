@@ -8,7 +8,7 @@ body {
       font-size: 27px;
       font-family: Georgia serif;
       text-align: center;
-      color: rgb(0, 0, 0);
+      color: #F664B7;
       margin-bottom: 30px;
       font-family: "Comic Sans MS", cursive, sans-serif;
   }
@@ -22,7 +22,7 @@ body {
   }
   
   .section { 
-      background-color: rgb(150, 150, 150);
+      background-color: rgb(204, 188, 222);
       border: 1px solid black;
       margin-top: 30px; 
       margin-right: 20px; 
@@ -46,14 +46,14 @@ body {
       padding: 2px;
   }
   #topic1 {
-      background-color: #FFB6C1;
+      background-color: #1CE3F8;
   }
   #topic2 {
-      background-color: #FF0000;
-      color: rgb(250, 250, 250);
+      background-color: #1BF91B;
+      
   }
   #topic3 {
-      background-color: #FFFF00;
+      background-color: #FBE019;
   }
   
   .row {
